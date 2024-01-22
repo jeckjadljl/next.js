@@ -1,0 +1,66 @@
+const photos = [
+    {
+      id: "1",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "2",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "3",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "4",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "5",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "6",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "7",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "8",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+    {
+      id: "9",
+      name: "Kevin Canlas",
+      href: "http://twitter.com/kvncnls/status/1471832344986324998",
+      username: "@kvncnls",
+      imageSrc: "http://pbs.twimg.com/media/FGz_t1wXIAIFyT-?format=jpg",
+    },
+  ];
+export default photos;
